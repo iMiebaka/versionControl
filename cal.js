@@ -3,3 +3,4 @@ function log(val) {
 }
 
 log("Hello World");
+log("Hello Class");

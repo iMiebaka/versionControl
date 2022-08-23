@@ -1,5 +1,5 @@
-function log(val){
-    console.log(val);
+function log(val) {
+  console.log(val);
 }
 
-log("Hello World")
+log("Hello World");
